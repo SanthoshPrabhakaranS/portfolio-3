@@ -29,7 +29,7 @@ const ContactSection = () => {
           >
             with a direct question on email
           </a>{" "}
-          and I'll get back to you as soon as I can.
+          and I&apos;ll get back to you as soon as I can.
         </p>
       </BlurFade>
     </div>
